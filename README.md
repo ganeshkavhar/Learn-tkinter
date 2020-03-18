@@ -9,7 +9,7 @@ This tutorial consists of minimal examples and explains common mistakes.
 You don't need to have any experience in GUI programming to read this
 tutorial, and you don't even need to know what is a GUI. All you need is
 [basic Python
-skills](https://github.com/Akuli/python-tutorial/tree/master/basics#basics).
+skills](https://github.com/ganeshkavhar/Learn-tkinter/blob/master/getting-started.md).
 
 **If you need help**, you're not alone! [Click
 here](https://kiwiirc.com/client/chat.freenode.net/##learnpython) to go
